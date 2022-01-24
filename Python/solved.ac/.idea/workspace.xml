@@ -40,8 +40,13 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.17388 (1)">
-    <configuration name="15963" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\중원\Documents\GitHub\problem-solving\Python\solved.ac\bronze\bronze V" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.15873">
+    <configuration name="11282" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="solved.ac" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -53,7 +58,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\중원\Documents\GitHub\problem-solving\Python\solved.ac\bronze\bronze IV\15963.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bronze/bronze IV/11282.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -62,7 +67,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="17388 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="11283" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="solved.ac" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,11 +75,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bronze/bronze IV" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bronze/bronze V" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bronze/bronze IV/17388.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bronze/bronze V/11283.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="17388" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="15700" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="solved.ac" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,7 +100,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\중원\Documents\GitHub\problem-solving\Python\solved.ac\bronze\bronze IV\17388.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bronze/bronze IV/15700.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="19944" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="15873" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="solved.ac" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,7 +121,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bronze/bronze IV/19944.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bronze/bronze IV/15873.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="20499" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="17496" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="solved.ac" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,32 +138,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bronze/bronze IV" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bronze/bronze V" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bronze/bronze IV/20499.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="5443" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="solved.ac" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bronze/bronze IV" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bronze/bronze IV/5443.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bronze/bronze V/17496.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.17388 (1)" />
-        <item itemvalue="Python.17388" />
-        <item itemvalue="Python.19944" />
-        <item itemvalue="Python.20499" />
-        <item itemvalue="Python.5443" />
+        <item itemvalue="Python.15873" />
+        <item itemvalue="Python.11282" />
+        <item itemvalue="Python.15700" />
+        <item itemvalue="Python.17496" />
+        <item itemvalue="Python.11283" />
       </list>
     </recent_temporary>
   </component>

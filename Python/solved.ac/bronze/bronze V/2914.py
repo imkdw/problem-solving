@@ -1,4 +1,2 @@
-import math
-
-melody, song_cnt = map(int, input().split())
-print(math.ceil(melody / song_cnt))
+a, i = map(int, input().split())
+print(a * (i - 1) + 1)
