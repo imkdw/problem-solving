@@ -45,8 +45,8 @@
       <recent name="C:\Users\중원\Documents\GitHub\problem-solving\Python\solved.ac\bronze\bronze V" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.2442">
-    <configuration name="2438 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.19698">
+    <configuration name="1009" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="solved.ac" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,7 +58,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bronze/bronze III/2438.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bronze/bronze III/1009.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -67,7 +67,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2439" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="19698" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="solved.ac" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,11 +75,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bronze/bronze III" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bronze/bronze IV" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bronze/bronze III/2439.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bronze/bronze IV/19698.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.19698" />
+        <item itemvalue="Python.1009" />
         <item itemvalue="Python.2442" />
         <item itemvalue="Python.2441" />
         <item itemvalue="Python.2440" />
-        <item itemvalue="Python.2439" />
-        <item itemvalue="Python.2438 (1)" />
       </list>
     </recent_temporary>
   </component>
