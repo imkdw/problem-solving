@@ -1,32 +1,56 @@
 function solution(park, routes) {
-  const H = park.length;
-  const W = park[0].length;
-  let currentPos = [0, 0];
+  // 공원을 2차원 배열로 변환
+  const parkArr = [];
+  park.forEach((p) => {
+    const parkRow = [];
+    p.split("").forEach((_) => {
+      parkRow.push(_);
+    });
+    parkArr.push(parkRow);
+  });
 
-  for (let i = 0; i < routes.length; i++) {
-    const [direction, distance] = routes[i].split(" ");
-    const dx = direction === "E" ? 1 : direction === "W" ? -1 : 0;
-    const dy = direction === "S" ? 1 : direction === "N" ? -1 : 0;
-
-    for (let j = 0; j < distance; j++) {
-      const newX = currentPos[0] + dx;
-      const newY = currentPos[1] + dy;
-
-      if (newX < 0 || newX >= H || newY < 0 || newY >= W) {
-        // Out of park bounds, ignore the command
-        break;
+  // 시작점 좌표 구하기
+  let posArr = [];
+  parkArr.forEach((park, index) => {
+    const width = index;
+    park.forEach((p, index) => {
+      if (p === "S") {
+        posArr.push(width, index);
       }
+    });
+  });
+  let [width, height] = [posArr[0], posArr[1]];
+  console.log(width, height);
 
-      if (park[newX][newY] === "X") {
-        // Obstacle encountered, ignore the command
-        break;
+  // route대로 움직이기
+  routes.forEach((route) => {
+    const routeArr = route.split(" ");
+    const [pos, len] = [routeArr[0], routeArr[1]];
+
+    for (let i = 0; i < len; i++) {
+      if (parkArr[height].length === width || parkArr[width].length === height) break;
+      switch (pos) {
+        case "N":
+          if (parkArr[height - 1][width] === "X") break;
+          height -= 1;
+          break;
+        case "E":
+          if (parkArr[height][width + 1] === "X") break;
+          width += 1;
+          break;
+        case "S":
+          if (parkArr[height + 1][width] === "X") break;
+          height += 1;
+          break;
+        case "W":
+          if (parkArr[height][width - 1] === "X") break;
+          width -= 1;
       }
-
-      currentPos = [newX, newY];
     }
-  }
+  });
 
-  return currentPos;
+  var answer = [height, width];
+  return answer;
 }
 
 const result = solution(["SOO", "OOO", "OOO"], ["E 2", "S 2", "W 1"]);
