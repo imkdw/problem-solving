@@ -4,11 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7891216e-ba5c-429b-a521-7459ba158424" name="Changes" comment="섹션 4: PART 2. 알고리즘 유형 분석 - 완전탐색">
-      <change afterPath="$PROJECT_DIR$/udemy/coding-test/section-5-greedy/greedy.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/coding-test/section-5-greedy/practices/11047.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/coding-test/section-5-greedy/practices/1449.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy/coding-test/section-5-greedy/practices/greedy_1.py" afterDir="false" />
+    <list default="true" id="7891216e-ba5c-429b-a521-7459ba158424" name="Changes" comment="섹션 5: PART 2. 알고리즘 유형 분석 - 탐욕법 Greedy Algorithm">
+      <change afterPath="$PROJECT_DIR$/udemy/coding-test/section-6-algorithms/backtracking/backtracking.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy/coding-test/section-6-algorithms/bfs/bfs.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy/coding-test/section-6-algorithms/bfs/bfs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy/coding-test/section-6-algorithms/data-structures/graph/graph.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy/coding-test/section-6-algorithms/data-structures/tree/tree.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy/coding-test/section-6-algorithms/dfs/dfs.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy/coding-test/section-6-algorithms/dfs/dfs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy/coding-test/section-6-algorithms/practices/11724.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy/coding-test/section-6-algorithms/practices/2178.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy/coding-test/section-6-algorithms/practices/길찾기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy/coding-test/section-6-algorithms/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,19 +60,24 @@
   "keyToString": {
     "Python.11047.executor": "Run",
     "Python.11286.executor": "Run",
+    "Python.11724.executor": "Run",
     "Python.1302.executor": "Run",
     "Python.1449.executor": "Run",
     "Python.2164.executor": "Run",
+    "Python.2178.executor": "Run",
     "Python.2309.executor": "Run",
     "Python.9012.executor": "Run",
     "Python.array.executor": "Run",
+    "Python.bfs.executor": "Run",
     "Python.brute-force.executor": "Run",
     "Python.combination.executor": "Run",
+    "Python.dfs.executor": "Run",
     "Python.map_dictionary.executor": "Run",
     "Python.permutation.executor": "Run",
     "Python.priority_queue.executor": "Run",
     "Python.queue.executor": "Run",
     "Python.set.executor": "Run",
+    "Python.길찾기.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -115,7 +127,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720932871857</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="섹션 5: PART 2. 알고리즘 유형 분석 - 탐욕법 Greedy Algorithm">
+      <option name="closed" value="true" />
+      <created>1720936762458</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1720936762458</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -133,6 +153,7 @@
     <MESSAGE value="기존 파일 삭제" />
     <MESSAGE value="~ 11. Chapter1. 자료구조 - 예제문제 (2)" />
     <MESSAGE value="섹션 4: PART 2. 알고리즘 유형 분석 - 완전탐색" />
-    <option name="LAST_COMMIT_MESSAGE" value="섹션 4: PART 2. 알고리즘 유형 분석 - 완전탐색" />
+    <MESSAGE value="섹션 5: PART 2. 알고리즘 유형 분석 - 탐욕법 Greedy Algorithm" />
+    <option name="LAST_COMMIT_MESSAGE" value="섹션 5: PART 2. 알고리즘 유형 분석 - 탐욕법 Greedy Algorithm" />
   </component>
 </project>
