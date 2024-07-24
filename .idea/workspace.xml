@@ -4,25 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7891216e-ba5c-429b-a521-7459ba158424" name="Changes" comment="섹션 7: PART 2. 알고리즘 유형 분석 - 이분 탐색 Binary Search">
-      <change afterPath="$PROJECT_DIR$/boj/stages/4. array/1546.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boj/stages/5. string/10809.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boj/stages/5. string/1152.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boj/stages/5. string/11654.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boj/stages/5. string/11718.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boj/stages/5. string/11720.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boj/stages/5. string/2675.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boj/stages/5. string/2743.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boj/stages/5. string/27866.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boj/stages/5. string/2908.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boj/stages/5. string/5622.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boj/stages/5. string/9086.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boj/stages/6. deepen/10988.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boj/stages/6. deepen/1157.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boj/stages/6. deepen/1316.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boj/stages/7. 2d array/10798.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boj/stages/7. 2d array/2566.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boj/stages/7. 2d array/2738.py" afterDir="false" />
+    <list default="true" id="7891216e-ba5c-429b-a521-7459ba158424" name="Changes" comment="a">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -209,7 +192,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720963317085</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="a">
+      <option name="closed" value="true" />
+      <created>1721142159911</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1721142159911</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -230,6 +221,7 @@
     <MESSAGE value="섹션 5: PART 2. 알고리즘 유형 분석 - 탐욕법 Greedy Algorithm" />
     <MESSAGE value="섹션 6: PART 2. 알고리즘 유형 분석 - DFS, BFS, 백트래킹" />
     <MESSAGE value="섹션 7: PART 2. 알고리즘 유형 분석 - 이분 탐색 Binary Search" />
-    <option name="LAST_COMMIT_MESSAGE" value="섹션 7: PART 2. 알고리즘 유형 분석 - 이분 탐색 Binary Search" />
+    <MESSAGE value="a" />
+    <option name="LAST_COMMIT_MESSAGE" value="a" />
   </component>
 </project>
